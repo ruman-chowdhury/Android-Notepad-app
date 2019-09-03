@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NotePad</string>
+
+
+    <string name="save">Save</string>
+
+    <string name="title"><i>title</i></string>
+    <string name="ruman_chowdhury">Ruman Chowdhury</string>
+    <string name="description">description</string>
+
+
+</resources>
